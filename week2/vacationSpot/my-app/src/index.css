@@ -1,0 +1,18 @@
+h1 {
+  font-size: 100px;
+  text-align: center;
+ background-color: grey;
+  border-style:double
+  }
+body{
+  background-color: burlywood;
+
+}
+h2{
+  font-size: 75px ;
+}
+h3{
+  font-size: 50px;
+  text-decoration: green;
+}
+
